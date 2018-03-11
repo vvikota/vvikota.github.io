@@ -6,7 +6,7 @@ html {
 
 section#main {
   height: 100vh;
-  background: url('../img/mountins.jpg') no-repeat center center;
+  background: url('../img/mountains.jpg') no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   color: #fff;
