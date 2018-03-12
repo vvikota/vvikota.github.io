@@ -112,6 +112,7 @@ footer a {
 .callback {
   display: inline-block;
   width: 33.33%;
+  vertical-align: middle;
 }
 
 .footer-info p,
@@ -122,18 +123,10 @@ footer a {
 
 .footer-head {
   font-size: 2rem;
-
-  margin-bottom: 1rem;
+  margin-bottom: 5px;
 }
 
-.social-links img {
-  width: 2rem;
-  height: 2rem;
-}
 
-.social-links .vk {
-  width: 1rem;
-}
 
 .social-links a {
   margin-left: 1rem;
@@ -143,26 +136,40 @@ footer a {
   width: 6rem;
   height: 6rem;
   vertical-align: middle;
-  border-radius: 50%;
+  border: none;
   line-height: 7rem;
   line-height: 6.5rem;
 }
 
-.footer-btn {
-  display: inline-block;
-  padding: 1rem 2rem;
-  border: 1px solid #fff;
-  border-radius: 50px;
+.nmb-link{
   text-decoration: none;
-  -webkit-transition: all 0.2s;
-  -o-transition: all 0.2s;
-  transition: all 0.2s;
+  line-height: 60px;
+  margin-left: 10px;
 }
 
-.footer-btn:hover {
-  color: #555;
-  background-color: #fff;
+.foooter-email{
+  display: inline-block;
+  margin-left: 10px;
 }
+
+.vk:hover .st0{
+  fill: #5771a6;
+}
+
+.facebook:hover .st1{
+  fill: #5360b0;
+}
+
+.github:hover .st2{
+  fill: #2a2d32;
+}
+
+.footer-head__copy{
+  line-height: 25px;
+}
+
+
+
 
 @media (max-width: 480px) {
   html {
