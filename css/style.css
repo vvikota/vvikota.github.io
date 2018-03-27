@@ -220,7 +220,7 @@ footer a {
   html {
     font-size: 8px;
   }
-  
+ 
 
 }
 
@@ -240,7 +240,11 @@ footer a {
     margin: 0 auto;
         padding-top: 6rem;
     padding-bottom: 4rem;
+    width: 90%;
+    text-align: center;
   }
+
+   
   .portfolio-box,
   .footer-info,
   .social-links,
