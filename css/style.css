@@ -62,12 +62,14 @@ section#main {
   font-weight: bold;
   margin-top: 20px;
   margin-bottom: 20px;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .advantages-box__description{
   font-size: 15px;
   width: 90%;
-  text-align: center;
   margin: auto;
 }
 
@@ -80,7 +82,7 @@ section#main {
 }
 
 .advantages-box{
-    width: 33.3%;
+    width: 25%;
     text-align: center;
 
 }
