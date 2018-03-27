@@ -66,6 +66,9 @@ section#main {
 
 .advantages-box__description{
   font-size: 15px;
+  width: 90%;
+  text-align: center;
+  margin: auto;
 }
 
 .advantages__wraper{
